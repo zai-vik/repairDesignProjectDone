@@ -2272,6 +2272,11 @@ button:hover {
         top: -228px;
     }
 
+    .completed-projects-slider-img-wrapper {
+        width: 340px;
+        height: 242px;
+    }
+    
     .we-realize-slider__img {
         width: 340px;
         height: 242px;
