@@ -2235,7 +2235,10 @@ button:hover {
     }
 
     
-
+    .completed-projects-slider-img-wrapper {
+        width: 340px;
+        height: 241px;
+    }
 
     .completed-projects-slider__img {
         width: 340px;
